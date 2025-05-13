@@ -1,0 +1,11 @@
+city,temp,humidity,desc,aqi
+Delhi,35,25,Hazy Sun,210
+Mumbai,30,80,Humid and Cloudy,90
+Bangalore,26,65,Light Rain,60
+Kolkata,32,75,Thunderstorms,150
+Chennai,33,70,Hot and Humid,120
+Hyderabad,31,60,Sunny,100
+Ahmedabad,36,40,Hot and Dry,160
+Pune,28,55,Clear Sky,70
+Jaipur,38,30,Sunny,180
+Lucknow,34,50,Partly Cloudy,140
